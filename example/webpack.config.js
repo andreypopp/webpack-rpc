@@ -8,7 +8,6 @@ module.exports = {
     filename: 'bundle.js',
   },
   plugins: [
-    new WatchIgnorePlugin([/.*/]),
     new WebpackRPC()
   ]
 };

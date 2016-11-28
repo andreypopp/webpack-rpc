@@ -23,6 +23,7 @@
     "webpack": "^1.13.3"
   },
   "dependencies": {
+    "death": "^1.0.0",
     "net-listen": "^0.1.1"
   }
 }
